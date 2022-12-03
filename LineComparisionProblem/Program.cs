@@ -18,7 +18,7 @@ namespace LineComparisionProblem
                 Console.WriteLine("Select the option");
                 Console.WriteLine("1.CalculateLength" + "\n" +
                                   "2.CheckEquality" + "\n" +
-                                  "3.Compare2Lines" + "\n"+
+                                  "3.Compare2Lines" + "\n" +
                                   "4.Exit" + "\n");
                 int options = Convert.ToInt32(Console.ReadLine());
                 switch (options)
